@@ -7,3 +7,4 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter nbextension enable --py widgetsnbextension
 deactivate
 
+./download_rtsd_r3.py
